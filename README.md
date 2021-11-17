@@ -1,4 +1,4 @@
-Esse é um projeto para o conteúdo de `Arquitetura de Software - Testando as Camadas`.
+Esse é um repositório para o conteúdo de `Arquitetura de Software - Testando as Camadas`.
 
 ### Antes de iniciar
 
@@ -6,14 +6,11 @@ Crie um fork desse projeto e para isso siga esse [tutorial de como realizar um f
 
 Após feito o fork, clone o repositório criado para o seu computador.
 
-Cada exercício tem sua pasta e dentro dela, você irá encontrar um `README.md`, com instruções de como realizar o exercício.
-
-Antes de fazer cada exercício, siga os seguintes passos:
+Antes de fazer os exercícios, siga os seguintes passos:
 
 - Crie uma nova branch.
-- Use `cd [diretório do exercicio]` para entrar no diretório do exercício.
 - Execute `npm install` para instalar suas dependências.
-- Lembre-se de desativar sua instância do mongodb quando for utilizar o `mongodb-memory-server` para testes.
+- Lembre-se de desativar sua instância do MongoDB quando for utilizar o `mongodb-memory-server` para testes.
 - Execute `npm test` para verificar os testes existentes.
 
 O resultado seria algo como na imagem abaixo.
@@ -74,7 +71,3 @@ Também seguindo o TDD, implemente a camada de controller do endpoint, certifiqu
 ### Exercício 4:
 
 Faça os ajustes no `index.js` para finalizar o endpoint.
-
-### Bônus
-
-Seguindo a mesma ideia dos exercícios anteriores, implemente o endpoint de exclusão de filmes na aplicação. Lembre-se de utilizar o TDD e implementar todas as camadas do padrão MSC.
