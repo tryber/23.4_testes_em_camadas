@@ -1,4 +1,4 @@
-Esse é um projeto para o conteúdo de `Testes em camadas - MVC`.
+Esse é um projeto para o conteúdo de `Arquitetura de Software - Testando as Camadas`.
 
 ### Antes de iniciar
 
