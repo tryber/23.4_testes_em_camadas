@@ -40,7 +40,7 @@ Para cada PR realize esse processo.
 
 ## Revisando
 
-Nos exercícios iremos implementar todas as camadas, para adicionar um endpoint que recebe o `ID` de um filme específico e, então, retorna os detalhes desse filme.
+Nos exercícios iremos implementar todas as camadas, para adicionar um endpoint que recebe o `ID` de um filme específico que retorna os detalhes desse filme.
 
 Esse endpoint terá os seguintes cenários:
 
@@ -73,7 +73,7 @@ Também seguindo o TDD, implemente a camada de controller do endpoint, certifiqu
 
 ### Exercício 4:
 
-Faça os ajustes no index.js para finalizar o endpoint.
+Faça os ajustes no `index.js` para finalizar o endpoint.
 
 ### Bônus
 
