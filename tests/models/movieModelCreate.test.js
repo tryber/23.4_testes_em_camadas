@@ -11,8 +11,6 @@ const MoviesModel = require('../../models/movieModel');
 describe('Insere um novo filme no BD', () => {
   /* Vamos deixar o objeto com o mock da conexão como uma variável global dentro desse describe. */
   let connectionMock; 
-
-
   const payloadMovie = {
     title: 'Example Movie',
     directedBy: 'Jane Dow',
